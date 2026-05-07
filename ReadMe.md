@@ -10,7 +10,7 @@
 - Kaggle
 - Self-created problems
 - Pandas
-- SQL
+- PostgreSQL
 - HackerRank
 - The Odin Project
 - Advanced SQL Puzzles
@@ -25,6 +25,7 @@
 - CatchCode
 - PixelBank
 - Replicube
+- Apache PySpark
 
 
 # Free Sessions
