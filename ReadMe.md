@@ -26,6 +26,7 @@
 - PixelBank
 - Replicube
 - Apache PySpark
+- Rust
 
 
 # Free Sessions
